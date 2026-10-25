@@ -6,7 +6,7 @@
 
 > **最快上手**：下载 `dist/野外实习记录skill.zip` → 在 ima 里上传 skill → 照第四节的三步开始用。
 >
-> **仓库结构**：`SKILL.md`（skill 主体逻辑）｜`references/`（模板规范、图片 SOP）｜`dist/`（可直接上传的打包件）｜`README.md`（本文件）
+> **仓库结构**：`SKILL.md`（skill 主体逻辑）｜`references/`（模板规范、图片 SOP）｜`README.md`（本文件）
 
 ---
 
